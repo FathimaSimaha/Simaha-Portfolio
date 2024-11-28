@@ -985,6 +985,12 @@ nav ul {
         font-size: 16px;
     }
 
+    .col .contents .boxx{
+        width: 250px;
+        height: 150px;
+
+    }
+
     .skills .title3 h1, .certifications h2 {
         font-size: 50px;
     }
